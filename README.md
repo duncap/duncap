@@ -1,5 +1,5 @@
 # Hey Y'all!
-Welcome to my GitHub profile. I'm the creator of "Capsule" and "Mr. T's Dating Simulator", Both available on here.
+Welcome to my GitHub profile. I'm the creator of on duncap directory, available on here.
 Feel free to take a look around, fork things, etc. I'll still be here :).
 
 <!---
